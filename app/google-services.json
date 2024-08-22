@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320928393128",
+    "project_id": "happyspace-1f907",
+    "storage_bucket": "happyspace-1f907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320928393128:android:4e61a21fa9e0c970199f9d",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320928393128-861uuls4oi9qdpnf7t4kap8si14lttls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT9K1G_z_D9UV8F_FFt1Z1-UeuUx-pQlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320928393128-861uuls4oi9qdpnf7t4kap8si14lttls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
